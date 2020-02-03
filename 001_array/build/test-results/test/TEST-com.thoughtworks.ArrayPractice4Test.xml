@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.thoughtworks.ArrayPractice4Test" tests="3" skipped="0" failures="0" errors="0" timestamp="2020-02-03T13:18:39" hostname="INDIX-PC" time="0.061">
+  <properties/>
+  <testcase name="should_insert_correctly_with_10()" classname="com.thoughtworks.ArrayPractice4Test" time="0.056"/>
+  <testcase name="should_insert_correctly_with_200()" classname="com.thoughtworks.ArrayPractice4Test" time="0.001"/>
+  <testcase name="should_insert_correctly_with_0()" classname="com.thoughtworks.ArrayPractice4Test" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
